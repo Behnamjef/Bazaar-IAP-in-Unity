@@ -6,6 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CafeBazaarIAB/Demo/IABTestScene.unity
-    guid: 64403a112f0a346a7be3e3b1f1359945
+    path: Assets/Scenes/BazaarTestScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
